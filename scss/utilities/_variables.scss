@@ -1,0 +1,17 @@
+// Colors
+$primary-color: #777; //text colors, secondary headlines
+$secondary-color: #58e1c1; //h1s, borders
+$frame-color: #ccc;
+$btn-text: #fff; //button text
+
+$btn-color: (
+'default': #51ddfc, //buttons, links
+'success': #63cc82,
+'error': #e4757a,
+'warning': #fd7856,
+'info': #927bc1,
+);
+
+
+// Media Queries
+$mq-break: 768px;
